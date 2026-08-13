@@ -17,15 +17,15 @@
 - Choose a custom date range and generate commits on random dates.
 - Example: `📅 2025-04-01 → 📅 2025-08-01`
 
-### 🔢 Commit Management
+### 📦 Commit Management
 - Set the commit count and keep each commit unique with fresh data.
-- Example: `50 commits → 50 unique commits`
+- Example: `🔢 Number of commits → 50 (unique commits)`
 
 ### 🛡️ Validation & Reliability
 - Validate inputs and handle file or Git errors safely.
 - Example: `📅 2025-08-01 → 📅 2025-07-01` = Invalid: Start date must be before end date
 
-### 🧾 Logging & CLI
+### 📟 Logging & CLI
 - Configure the tool and monitor commit progress directly in the IDE's terminal.
 - Example: `Committing: 2025-06-15 | Remaining: 24`
 
