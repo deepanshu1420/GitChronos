@@ -43,6 +43,11 @@
 - ⚪ **JSONFile:** Persists generated commit metadata.
 - 🔴 **Readline:** Provides interactive terminal input handling.
 
+## 📊 GitHub Contribution Graph
+
+![Contribution Graph](./screenshot/ContributionGraph.png)
+*My GitHub contribution activity throughout the year.*
+
 ## 🛠️ Setup & Installation
 
 ### 1️⃣ Clone the Repository
