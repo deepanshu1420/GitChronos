@@ -15,7 +15,7 @@
 
 ### 🕒 Scheduling
 - Choose a custom date range and generate commits on random dates.
-- Example: `2025-04-01 → 2025-08-01`
+- Example: `📅 2025-04-01 → 📅 2025-08-01`
 
 ### 🔢 Commit Management
 - Set the commit count and keep each commit unique with fresh data.
@@ -23,7 +23,7 @@
 
 ### 🛡️ Validation & Reliability
 - Validate inputs and handle file or Git errors safely.
-- Example: `2025-08-01 → 2025-07-01` = Invalid: Start date must be before end date
+- Example: `📅 2025-08-01 → 📅 2025-07-01` = Invalid: Start date must be before end date
 
 ### 🧾 Logging & CLI
 - Configure the tool and monitor commit progress directly in the IDE's terminal.
@@ -31,7 +31,7 @@
 
 ### 📤 Git Integration
 - Automatically commit changes and push them to the remote repository.
-- Example: `All commits pushed successfully!`
+- Example: `✅ All commits pushed successfully!`
 
 ## 🧰 Tech Stack Used
 
