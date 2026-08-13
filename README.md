@@ -45,7 +45,7 @@
 
 ## 📊 GitHub Contribution Graph
 
-> My GitHub contribution activity throughout the year.
+> See how I filled my GitHub contribution graph using this `Git Chronos tool`.
 
 ![Contribution Graph](./screenshot/ContributionGraph.png)
 
