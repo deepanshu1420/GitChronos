@@ -46,7 +46,7 @@
 ## 📊 GitHub Contribution Graph
 
 ![Contribution Graph](./screenshot/ContributionGraph.png)
-*My GitHub contribution activity throughout the year.*
+> *My GitHub contribution activity throughout the year.*
 
 ## 🛠️ Setup & Installation
 
