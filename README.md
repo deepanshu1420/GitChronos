@@ -90,4 +90,4 @@ Number of commits: 50
 
 ## 📜 Disclaimer
 
-Use this project at your own risk. `The author is not responsible` for account suspension, account restrictions, contribution discrepancies, repository issues, or any other consequences resulting from its use.
+Use this project at your own risk. `The author is not responsible` for account suspension, account restrictions, contribution discrepancies, repository issues, or any other consequences resulting from its use
